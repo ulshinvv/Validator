@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fqJ5p6w3VMZbiljrzsZBdBoZln/D/YuoHzZ8i7y1UEOJoD+4HukTaCvKtqIzs2qBpG024cmXxi00S0lcxl2dpA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ulsin\\Desktop\\ValidatorLib\\ValidatorLib\\Library\\ValidatorLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ulsin\\.nuget\\packages\\microsoft.codecoverage\\17.9.0\\microsoft.codecoverage.17.9.0.nupkg.sha512",
+    "C:\\Users\\ulsin\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0\\microsoft.net.test.sdk.17.9.0.nupkg.sha512",
+    "C:\\Users\\ulsin\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0\\microsoft.testplatform.objectmodel.17.9.0.nupkg.sha512",
+    "C:\\Users\\ulsin\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0\\microsoft.testplatform.testhost.17.9.0.nupkg.sha512",
+    "C:\\Users\\ulsin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\ulsin\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
